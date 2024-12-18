@@ -37,7 +37,7 @@ import random
 #             t = arr[j]
 #             arr[j] = arr[j+1]
 #             arr[j+1] = t
-#             count +=1
+#             count += 1
 # print(datetime.datetime.now() - t1)
 # # print(arr)
 # print(count)
